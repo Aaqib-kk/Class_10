@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Aaqib-kk/Class_10/issues"
   },
-  "homepage": "https://github.com/Aaqib-kk/Class_10#readme"
+  "homepage": "https://github.com/Aaqib-kk/Class_10#readme",
+  "dependencies": {
+    "actions-on-google": "^3.0.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.17.1"
+  }
 }
